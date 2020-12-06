@@ -1,0 +1,5 @@
+psi.*
+__pycache__
+.ipynb_checkpoints
+timer.dat
+output.dat

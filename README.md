@@ -1,5 +1,8 @@
 # **MP2-F12(3C)**
 
+* The RAB comments:
+ * added working jupyter notebooks
+
 The explicitly correlated approach is one of the most important breakthroughs in ab initio electronic
 structure theory and broadly used to speed up convergence of electron correlation energy with respect to the basis set size.
 
